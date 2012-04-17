@@ -1,0 +1,8 @@
+Gavaghan Geodesy Library Version 1.1.1
+
+By: Mike Gavaghan (mike@gavaghan.org)
+
+http://www.gavaghan.org/blog/free-source-code/geodesy-library-vincentys-formula-java/
+
+1.1.1 - Apr 15, 2008 - Fixed pole-crossing defect.  Many thanks to Matt Feemster for finding this.
+1.1.0 - Jan 6, 2008 - Incorporated Vincenty's direct solution.

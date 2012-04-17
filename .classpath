@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="junit"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="agitar/test"/>
+	<classpathentry kind="var" path="JUNIT_HOME/junit.jar" sourcepath="ECLIPSE_HOME/plugins/org.eclipse.jdt.source_3.1.1/src/org.junit_3.8.1/junitsrc.zip"/>
+	<classpathentry kind="var" path="AGITAR_TEST_LIB"/>
+	<classpathentry kind="var" path="AGITAR_MOCK_OBJECTS5"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>
