@@ -1,5 +1,14 @@
 # Geodesy
 
+> :warning: DEPRECATED
+>
+> **2016-08-10**: The original author has brought the code to
+> [Github](https://github.com/mgavaghan/geodesy), provided a proper
+> license, and published all to maven central. This repository remains
+> for historical purposes only.
+>
+> https://github.com/mgavaghan/geodesy
+
 This is a copy of Mike Gavaghan's [Geodesy][0] library, used without
 permission.
 
